@@ -1,0 +1,18 @@
+@echo off
+
+setlocal
+title Install Additional Tools for Node.js
+
+cls
+
+echo ====================================================
+echo Tool HACK 1.0 Install 
+echo ====================================================
+echo.
+echo Install to HACK BY G9B 
+echo.
+echo SecurityProtocol 3.0 accepting to a^programs
+echo.
+echo https://github.com/NoeMODMENUFR/Tool-hack.git
+echo.
+pause
